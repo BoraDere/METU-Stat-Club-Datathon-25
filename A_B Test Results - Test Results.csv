@@ -1,0 +1,129 @@
+Metrics,,Variant,
+Metric Category,Metric Name,Control,Treatment
+Participants,user_counts,"5,191","5,314"
+Account Type Switches,Free_to_Paid,"4,719","4,603"
+Account Type Switches,Paid_to_Free,"1,056","1,088"
+Account Type Switches,upsell,360,362
+Account Type Switches,downgrade,"1,069","1,106"
+Account Type Switches,switch_up_to_yearly,"2,744","2,722"
+Account Type Switches,switch_up_to_monthly,"2,025","1,971"
+Account Type Switches,upgrade_to_bronze,"2,802","2,734"
+Account Type Switches,upgrade_to_silver,"1,342","1,295"
+Account Type Switches,upgrade_to_gold,983,980
+Account Type Switches,switch_from_free_to_yearly,"2,667","2,635"
+Account Type Switches,switch_from_monthly_to_yearly,87,96
+Account Type Switches,switch_from_yearly_to_yearly,190,170
+Account Type Switches,switch_from_free_to_monthly,"2,025","1,971"
+Account Type Switches,switch_from_monthly_to_monthly,116,141
+Account Type Switches,switch_from_yearly_to_monthly,49,60
+Account Type Switches,free_at_start_paid_now,"3,726","3,593"
+Account Type Switches,free_at_start_bronze_now,"1,896","1,788"
+Account Type Switches,free_at_start_silver_now,"1,036",998
+Account Type Switches,free_at_start_gold_now,792,807
+Account Type Switches,free_at_start_monthly_now,996,932
+Account Type Switches,free_at_start_yearly_now,"2,562","2,527"
+Account Type Switches,upgrade_to_storage,5,1
+Account Type Switches,upgrade_to_others,3,1
+AI Agents,_1Plus_AI_agents,254,240
+AI Agents,_5Plus_AI_agents,27,22
+AI Agents,_1Plus_Session,81,56
+AI Agents,_5Plus_Session,43,33
+AI Agents,_1Plus_Conversation,80,56
+AI Agents,_5Plus_Conversation,43,33
+AI Agents,_1Plus_Agent_Submission,24,16
+AI Agents,_5Plus_Agent_Submission,8,7
+AI Agents,_1Plus_Trained_Agent,145,124
+AI Agents,_1Plus_Trained_Agent_Wo_Template,108,87
+App and Store,_1Plus_App_Creates,853,827
+App and Store,_5Plus_App_Creates,75,71
+App and Store,_1Plus_Store_Creates,66,65
+App and Store,_5Plus_Store_Creates,1,1
+App and Store,First_App_During_Test,816,778
+App and Store,First_Store_During_Test,61,60
+App and Store,_1Plus_Any_App_Creates,902,870
+App and Store,_5Plus_Any_App_Creates,84,80
+App and Store,First_Any_App_During_Test,859,812
+App and Store,_1Plus_view_any_app,536,560
+App and Store,_5Plus_view_any_app,403,394
+App and Store,_1Plus_view_app,511,530
+App and Store,_5Plus_view_app,386,369
+App and Store,_1Plus_view_store,36,39
+App and Store,_5Plus_view_store,20,20
+App and Store,_1Plus_form_view_from_any_app,437,441
+App and Store,_5Plus_form_view_from_any_app,332,316
+App and Store,_1Plus_form_view_from_app,433,429
+App and Store,_5Plus_form_view_from_app,330,307
+App and Store,_1Plus_form_view_from_store,8,15
+App and Store,_5Plus_form_view_from_store,2,9
+App and Store,_1Plus_form_submission_from_any_app,310,320
+App and Store,_5Plus_form_submission_from_any_app,209,219
+App and Store,_1Plus_form_submission_from_app,298,303
+App and Store,_5Plus_form_submission_from_app,205,210
+App and Store,_1Plus_form_submission_from_store,9,16
+App and Store,_5Plus_form_submission_from_store,4,8
+Approval,_1Plus_approval,859,799
+Approval,_5Plus_approval,109,102
+Approval,_1Plus_approvaltrigger,499,429
+Approval,_5Plus_approvaltrigger,381,317
+Boards,_1Plus_boards,90,77
+Boards,_5Plus_boards,3,1
+Email,unsubscribers,665,684
+Form,_1Plus_Forms,"3,900","3,780"
+Form,_5Plus_Forms,"1,921","1,865"
+Form,_1Plus_Submission,"4,114","4,010"
+Form,_5Plus_Submission,"3,528","3,393"
+Form,payment_integrated_user,470,396
+Form,_1Plus_form_view,"4,463","4,371"
+Form,_5Plus_form_view,"4,234","4,119"
+Form,edited_any_forms,"3,754","3,616"
+Form,edited_cloned_forms,"2,899","2,788"
+Form,_1Plus_Submission_During_Test,"3,362","3,281"
+Form,_5Plus_Submission_During_Test,"2,863","2,749"
+Form,_10Plus_Submission,"3,188","3,055"
+Form,_10Plus_Submission_During_Test,"2,589","2,460"
+Form,_10Plus_form_view,"4,069","3,958"
+HIPAA,hipaa_enabled_users,414,394
+HIPAA,hipaa_disabled_users,72,63
+Inbox,inbox_active_user,286,265
+Payments,P1_During_Test,"1,160","1,394"
+Payments,P7_During_Test,"1,192","1,445"
+Payments,P30_During_Test,"1,207","1,478"
+Payments,first_subscription_during_test,"3,370","3,461"
+Payments,subscription_during_test,"3,413","3,492"
+Payments,first_payment_during_test,"4,767","4,653"
+Payments,payment_during_test,"4,767","4,653"
+Payments,refund_users,165,205
+Payments,P60_During_Test,"1,228","1,513"
+Payments,P90_During_Test,"1,241","1,527"
+Report,_1Plus_reports,471,424
+Report,_5Plus_reports,30,20
+Report,_1Plus_report_views,604,550
+Report,_5Plus_report_views,218,183
+Sign,_1Plus_sign_doc,693,643
+Sign,_5Plus_sign_doc,188,152
+Sign,_1Plus_collected_sign,386,369
+Sign,_5Plus_collected_sign,192,182
+Signups,verified_users,"4,676","4,746"
+Signups,suspended_user_counts,506,382
+Smart PDF,_1Plus_SmartPDFForms,613,613
+Smart PDF,_5Plus_SmartPDFForms,104,96
+Smart PDF,_1Plus_SmartPDF_Submission,442,424
+Smart PDF,_5Plus_SmartPDF_Submission,287,307
+Support,support_requests,901,840
+Table,_1Plus_tables,"3,493","3,445"
+Table,_5Plus_tables,965,925
+Table,_1Plus_table_view,"3,451","3,402"
+Table,_5Plus_table_view,"2,312","2,266"
+Template,_1Plus_Cloned_Templates,"1,766","1,692"
+Template,_5Plus_Cloned_Templates,170,170
+Template,_1Plus_App_Clones,159,159
+Template,_1Plus_Store_Clones,53,47
+Template,_1Plus_Sign_Clones,271,222
+Template,_5Plus_Sign_Clones,16,6
+Template,_1Plus_Approvals_Clones,58,49
+Template,_1Plus_Table_Clones,89,122
+Template,_5Plus_Table_Clones,2,2
+Template,_1Plus_PDF_Clones,429,363
+Template,_5Plus_PDF_Clones,23,11
+Template,_1Plus_Any_App_Clones,159,159
+Template,_5Plus_Any_App_Clones,3,7
